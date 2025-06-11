@@ -34,14 +34,3 @@ streamlit run app.py
 
 
 ---
-
-### 🔹 Step 5: Scroll down and click **“Commit new file”**
-
-Done! 🎉  
-Now your GitHub project will show a beautiful homepage with:
-
-- Project name  
-- Description  
-- Live app button  
-
-Let me know when it’s done and I can help you add a thumbnail or extra features if you want! 💪
